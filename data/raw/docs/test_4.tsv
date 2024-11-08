@@ -1,0 +1,41 @@
+run_accession	sample_title	fastq_https	custom_name
+6336_G2M_in_S17	input, G2/M, Hho1, strain 6336	https://www.dropbox.com/scl/fi/6a48gl3tnb8v4c3g8hx47/6336_G2M_in_S17_R1_001.fastq.gz?rlkey=2l0fb0eudlvllpufj9kmcruff&st=9j073fsc&dl=1;https://www.dropbox.com/scl/fi/g8wiltnibdyt6h6utstsk/6336_G2M_in_S17_R2_001.fastq.gz?rlkey=jtpo0qc81u1i7t84cminq0ahs&st=v6cfynfd&dl=1	in_WT_G2M_Hho1_6336
+6336_G2M_lP_S29	immunoprecipitate, G2/M, Hho1, strain 6336	https://www.dropbox.com/scl/fi/myb1sqryg0lmmsopusdkp/6336_G2M_lP_S29_R1_001.fastq.gz?rlkey=448i054qicr71fh0fcqksbqe5&st=rlulhw9y&dl=1;https://www.dropbox.com/scl/fi/yiegn3h3sxoi6rt7yity0/6336_G2M_lP_S29_R2_001.fastq.gz?rlkey=47u1x2axobxc2583vf8uglgtr&st=bhoqs9xr&dl=1	IP_WT_G2M_Hho1_6336
+6336_Q-in_S19	input, quiescence, Hho1, strain 6336	https://www.dropbox.com/scl/fi/lolxsbn0jfpr0i8bcn20g/6336_Q-in_S19_R1_001.fastq.gz?rlkey=ezpqffo690b5vhb7bbz7ljxyi&st=na1mfy1q&dl=1;https://www.dropbox.com/scl/fi/s5mrhvyvwaz08omkk4s0b/6336_Q-in_S19_R2_001.fastq.gz?rlkey=lbxu49ktowxpyst2hhoh3z104&st=27n7bsv7&dl=1	in_WT_Q_Hho1_6336
+6336_Q_lP_S31	immunoprecipitate, quiescence, Hho1, strain 6336	https://www.dropbox.com/scl/fi/ad3k2xnpf6x5f0r15orhb/6336_Q_lP_S31_R1_001.fastq.gz?rlkey=29jbm8woki9kvau1ljlqq9sco&st=vd4g6ud0&dl=1;https://www.dropbox.com/scl/fi/6eq7rfjdn26c3a1z1v482/6336_Q_lP_S31_R2_001.fastq.gz?rlkey=0k5vas4342rgjgafw20j78qoo&st=1mpnoy22&dl=1	IP_WT_Q_Hho1_6336
+6337_G2M_in_S18	input, G2/M, Hho1, strain 6337	https://www.dropbox.com/scl/fi/dd1ycecoi6xyngjed8wrb/6337_G2M_in_S18_R1_001.fastq.gz?rlkey=gzones6z3k7ui7uoyol9x1yih&st=0q2sw3x4&dl=1;https://www.dropbox.com/scl/fi/c2ioqts2x7cljdymu6dst/6337_G2M_in_S18_R2_001.fastq.gz?rlkey=x7lrwgd1hrpvwqshrxi3zml33&st=f0intfqx&dl=1	in_WT_G2M_Hho1_6337
+6337_G2M_lP_S30	immunoprecipitate, G2/M, Hho1, strain 6337	https://www.dropbox.com/scl/fi/957wi7xldjg37q6jqkacc/6337_G2M_lP_S30_R1_001.fastq.gz?rlkey=23j6efv0ejm78dg84b9tkasfc&st=d2zo14bu&dl=1;https://www.dropbox.com/scl/fi/n5qzgdrex3j8jx1p5rsa7/6337_G2M_lP_S30_R2_001.fastq.gz?rlkey=2jlnqv4pi54arnufgbst866pq&st=ywzie0ow&dl=1	IP_WT_G2M_Hho1_6337
+6337_Q_in_S20	input, quiescence, Hho1, strain 6336	https://www.dropbox.com/scl/fi/g9xbb8kndwpseqrimoth2/6337_Q_in_S20_R1_001.fastq.gz?rlkey=doj3qo3b360eavl1wqb6xidst&st=6z45cgkw&dl=1;https://www.dropbox.com/scl/fi/3p2i4vhcfau32j56sdt8n/6337_Q_in_S20_R2_001.fastq.gz?rlkey=sv5v8fj92v7vpdm6i8wfjwbrt&st=3n0s7tnu&dl=1	in_WT_Q_Hho1_6337
+6337_Q_lP_S32	immunoprecipitate, quiescence, Hho1, strain 6336	https://www.dropbox.com/scl/fi/dlqs2kvvdkw4i0hzdfpqo/6337_Q_lP_S32_R1_001.fastq.gz?rlkey=10ssqr6fh8kbxqorct6jilf5s&st=cd37qcd9&dl=1;https://www.dropbox.com/scl/fi/zult1v9nstbhxhco1pwr6/6337_Q_lP_S32_R2_001.fastq.gz?rlkey=xvwn09mtyoqgqgk4xo5ucl56t&st=d1xghgfc&dl=1	IP_WT_Q_Hho1_6337
+SRR7175367	Brn1 in Log Replicate 1 IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/007/SRR7175367/SRR7175367.fastq.gz	IP_WT_log_Brn1_rep1
+SRR7175368	Brn1 in Log Replicate 1 Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/008/SRR7175368/SRR7175368.fastq.gz	in_WT_log_Brn1_rep1
+SRR7175369	Brn1 in Log Replicate 2 IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/009/SRR7175369/SRR7175369.fastq.gz	IP_WT_log_Brn1_rep2
+SRR7175370	Brn1 in Log Replicate 2 Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/000/SRR7175370/SRR7175370.fastq.gz	in_WT_log_Brn1_rep2
+SRR7175371	Brn1 in Log Replicate 3 IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/001/SRR7175371/SRR7175371.fastq.gz	IP_WT_log_Brn1_rep3
+SRR7175372	Brn1 in Log Replicate 3 Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/002/SRR7175372/SRR7175372.fastq.gz	in_WT_log_Brn1_rep3
+SRR7175375	Brn1 in Q Replicate 1 IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/005/SRR7175375/SRR7175375.fastq.gz	IP_WT_Q_Brn1_rep1
+SRR7175376	Brn1 in Q Replicate 1 Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/006/SRR7175376/SRR7175376.fastq.gz	in_WT_Q_Brn1_rep1
+SRR7175377	Brn1 in Q Replicate 2 IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/007/SRR7175377/SRR7175377.fastq.gz	IP_WT_Q_Brn1_rep2
+SRR7175378	Brn1 in Q Replicate 2 Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/008/SRR7175378/SRR7175378.fastq.gz	in_WT_Q_Brn1_rep2
+SRR7175379	Brn1 in Q Replicate 3 IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/009/SRR7175379/SRR7175379.fastq.gz	IP_WT_Q_Brn1_rep3
+SRR7175380	Brn1 in Q Replicate 3 Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/000/SRR7175380/SRR7175380.fastq.gz	in_WT_Q_Brn1_rep3
+SRR7175388	Rpb3 in SMC4-off All Replicates Merged Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/008/SRR7175388/SRR7175388.fastq.gz	in_SMC4off_Q_Rpb3_merged
+SRR8200047	Brn1 in SMC4-off Replicates Merged Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR820/007/SRR8200047/SRR8200047.fastq.gz	in_SMC4off_Q_Brn1_merged
+SRR7175373	Brn1 in Log All Replicates Merged IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/003/SRR7175373/SRR7175373.fastq.gz	IP_WT_log_Brn1_merged
+SRR8200048	Brn1 in msn2 Replicates Merged IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR820/008/SRR8200048/SRR8200048.fastq.gz	IP_msn2_Q_Brn1_merged
+SRR7175381	Brn1 in Q All Replicates Merged IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/001/SRR7175381/SRR7175381.fastq.gz	IP_WT_Q_Brn1_merged
+SRR7175382	Brn1 in Q All Replicates Merged Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/002/SRR7175382/SRR7175382.fastq.gz	in_WT_Q_Brn1_merged
+SRR8200049	Brn1 in msn2 Replicates Merged Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR820/009/SRR8200049/SRR8200049.fastq.gz	in_msn2_Q_Brn1_merged
+SRR8200051	Msn2 in Q Replicates Merged Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR820/001/SRR8200051/SRR8200051.fastq.gz	in_WT_Q_Msn2_merged
+SRR8200052	Ser2-phos in SMC4-off Replicates Merged IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR820/002/SRR8200052/SRR8200052.fastq.gz	IP_SMC4off_Q_Ser2phos_merged
+SRR8200055	Ser2-phos in Q Replicates Merged Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR820/005/SRR8200055/SRR8200055.fastq.gz	in_WT_Q_Ser2phos_merged
+SRR7175393	Rpb3 in Log All Replicates Merged IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/003/SRR7175393/SRR7175393.fastq.gz	IP_WT_log_Rpb3_merged
+SRR7175399	Rpb3 in Q All Replicates Merged IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/009/SRR7175399/SRR7175399.fastq.gz	IP_WT_Q_Rpb3_merged
+SRR8200050	Msn2 in Q Replicates Merged IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR820/000/SRR8200050/SRR8200050.fastq.gz	IP_WT_Q_Msn2_merged
+SRR8200053	Ser2-phos in SMC4-off Replicates Merged Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR820/003/SRR8200053/SRR8200053.fastq.gz	in_SMC4off_Q_Ser2phos_merged
+SRR7175374	Brn1 in Log All Replicates Merged Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/004/SRR7175374/SRR7175374.fastq.gz	in_WT_log_Brn1_merged
+SRR7175387	Rpb3 in SMC4-off All Replicates Merged IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/007/SRR7175387/SRR7175387.fastq.gz	IP_SMC4off_Q_Rpb3_merged
+SRR7175394	Rpb3 in Log All Replicates Merged Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/004/SRR7175394/SRR7175394.fastq.gz	in_WT_log_Rpb3_merged
+SRR7175400	Rpb3 in Q All Replicates Merged Input	ftp.sra.ebi.ac.uk/vol1/fastq/SRR717/000/SRR7175400/SRR7175400.fastq.gz	in_WT_Q_Rpb3_merged
+SRR8200046	Brn1 in SMC4-off Replicates Merged IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR820/006/SRR8200046/SRR8200046.fastq.gz	IP_SMC4off_Q_Brn1_merged
+SRR8200054	Ser2-phos in Q Replicates Merged IP	ftp.sra.ebi.ac.uk/vol1/fastq/SRR820/004/SRR8200054/SRR8200054.fastq.gz	IP_WT_Q_Ser2phos_merged
